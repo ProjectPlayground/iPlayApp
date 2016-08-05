@@ -1,0 +1,4 @@
+CHANGED,/Users/chris/Documents/github/iPlayApp/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/parse/starter/MapsActivity$4$override.class
+CHANGED,/Users/chris/Documents/github/iPlayApp/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/parse/starter/MapsActivity$4$1$override.class
+CHANGED,/Users/chris/Documents/github/iPlayApp/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/chris/Documents/github/iPlayApp/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/parse/starter/MapsActivity$override.class
